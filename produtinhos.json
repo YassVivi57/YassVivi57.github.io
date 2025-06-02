@@ -1,0 +1,83 @@
+{
+    "titulo": "Trailer da Tia Van",
+    "subtitulo": "Nosso Cardápio",
+    "categorias": [
+      {
+        "nome": "Lanches",
+        "itens": [
+          {
+            "id": 1,
+            "nome": "Lanche Gostoso",
+            "descricao": "Um lanche delicioso para matar sua fome!",
+            "preco": 12.00,
+            "imagem": ""
+          },
+          {
+            "id": 2,
+            "nome": "Super Lanche",
+            "descricao": "Um lanche grande e saboroso para você.",
+            "preco": 15.50,
+            "imagem": ""
+          }
+        ]
+      },
+      {
+        "nome": "Salgados",
+        "itens": [
+          {
+            "id": 3,
+            "nome": "Coxinha Cremosa",
+            "descricao": "Uma coxinha cremosa e recheada.",
+            "preco": 4.50,
+            "imagem": ""
+          },
+          {
+            "id": 4,
+            "nome": "Pastel Quentinho",
+            "descricao": "Um pastel frito na hora com muito recheio.",
+            "preco": 5.00,
+            "imagem": ""
+          }
+        ]
+      },
+      {
+        "nome": "Doces",
+        "itens": [
+          {
+            "id": 5,
+            "nome": "Brigadeiro Delícia",
+            "descricao": "Um brigadeiro feito com muito carinho.",
+            "preco": 2.50,
+            "imagem": ""
+          },
+          {
+            "id": 6,
+            "nome": "Bolo Caseiro",
+            "descricao": "Uma fatia de bolo fofinho e saboroso.",
+            "preco": 6.00,
+            "imagem": ""
+          }
+        ]
+      },
+      {
+        "nome": "Bebidas",
+        "itens": [
+          {
+            "id": 7,
+            "nome": "Refrigerante Gelado",
+            "descricao": "Um refrigerante bem gelado para acompanhar.",
+            "preco": 4.00,
+            "imagem": ""
+          },
+          {
+            "id": 8,
+            "nome": "Suco Refrescante",
+            "descricao": "Um suco natural para refrescar seu dia.",
+            "preco": 5.50,
+            "imagem": ""
+          }
+        ]
+      }
+    ]
+  }
+  
