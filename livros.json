@@ -1,0 +1,44 @@
+{
+  "Romance": [
+    {"titulo": "Orgulho e Preconceito", "autor": "Jane Austen", "ano": 1813},
+    {"titulo": "Como Eu Era Antes de Você", "autor": "Jojo Moyes", "ano": 2012},
+    {"titulo": "A Culpa é das Estrelas", "autor": "John Green", "ano": 2012},
+    {"titulo": "P.S. Eu Te Amo", "autor": "Cecelia Ahern", "ano": 2004}
+  ],
+  "Acao": [
+    {"titulo": "O Código Da Vinci", "autor": "Dan Brown", "ano": 2003},
+    {"titulo": "Jogos Vorazes", "autor": "Suzanne Collins", "ano": 2008},
+    {"titulo": "O Dossiê Pelicano", "autor": "John Grisham", "ano": 1992},
+    {"titulo": "Missão Impossível", "autor": "Bruce Geller", "ano": 1996}
+  ],
+  "FiccaoCientifica": [
+    {"titulo": "Duna", "autor": "Frank Herbert", "ano": 1965},
+    {"titulo": "Neuromancer", "autor": "William Gibson", "ano": 1984},
+    {"titulo": "Fundacao", "autor": "Isaac Asimov", "ano": 1951},
+    {"titulo": "Snow Crash", "autor": "Neal Stephenson", "ano": 1992}
+  ],
+  "Misterio": [
+    {"titulo": "Assassinato no Expresso do Oriente", "autor": "Agatha Christie", "ano": 1934},
+    {"titulo": "Garota Exemplar", "autor": "Gillian Flynn", "ano": 2012},
+    {"titulo": "O Silencio dos Inocentes", "autor": "Thomas Harris", "ano": 1988},
+    {"titulo": "O Nome da Rosa", "autor": "Umberto Eco", "ano": 1980}
+  ],
+  "Fantasia": [
+    {"titulo": "O Senhor dos Aneis", "autor": "J.R.R. Tolkien", "ano": 1954},
+    {"titulo": "Harry Potter e a Pedra Filosofal", "autor": "J.K. Rowling", "ano": 1997},
+    {"titulo": "As Cronicas de Narnia", "autor": "C.S. Lewis", "ano": 1950},
+    {"titulo": "O Nome do Vento", "autor": "Patrick Rothfuss", "ano": 2007}
+  ],
+  "Biografia": [
+    {"titulo": "Steve Jobs", "autor": "Walter Isaacson", "ano": 2011},
+    {"titulo": "Longa Caminhada ate a Liberdade", "autor": "Nelson Mandela", "ano": 1994},
+    {"titulo": "Eu Sou Malala", "autor": "Malala Yousafzai", "ano": 2013},
+    {"titulo": "A Historia da Minha Vida", "autor": "Helen Keller", "ano": 1903}
+  ],
+  "Terror": [
+    {"titulo": "O Iluminado", "autor": "Stephen King", "ano": 1977},
+    {"titulo": "Dracula", "autor": "Bram Stoker", "ano": 1897},
+    {"titulo": "Frankenstein", "autor": "Mary Shelley", "ano": 1818},
+    {"titulo": "Coraline", "autor": "Neil Gaiman", "ano": 2002}
+  ]
+}
